@@ -4,7 +4,7 @@ h1{
 	text-align: left;
 	padding-top: 25px;
 	padding-bottom: 5px;
-	font-size: 1.2em;
+	font-size: 1.8em;
 	padding-left: 20px;
 }
 
@@ -26,7 +26,7 @@ img{
 
 #child{
 width: 70%;
-	top: 350px;
+	top: 750px;
 	position: absolute;
 	right: 178px;
 	font-family: Helvetica;
