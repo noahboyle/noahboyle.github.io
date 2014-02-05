@@ -27,7 +27,7 @@ img{
 #child{
 width: 70%;
 	top: 600px;
-	position: absolute;
+	position: relative;
 	right: 310px;
 	font-family: Helvetica;
 	font-size: 1em;
