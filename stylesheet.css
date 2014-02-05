@@ -37,7 +37,7 @@ width: 70%;
 
 #child2{
 width: 70%;
-	top: 1000px;
+	top: 400px;
 	position: absolute;
 	right: 310px;
 	font-family: Helvetica;
@@ -61,7 +61,7 @@ width: 70%;
 	float: left;
 	padding: 10px;
 	 margin-left:10px;
-	 top: 500px;
+	 top: 350px;
 	 position: relative;
 	
 }
@@ -71,7 +71,7 @@ width: 70%;
 	float: left;
 	padding: 10px;
 	 margin-left:10px;
-	 top: 1000px;
+	 top: 700px;
 	 position: relative;
 	
 }
