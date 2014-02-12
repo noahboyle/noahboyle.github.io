@@ -76,3 +76,35 @@ width: 70%;
 	
 }
 
+#parent5{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 500px;
+	 position: relative;
+	
+}
+
+#child3{
+	width: 70%;
+	top: 50px;
+	position: relative;
+	right: 0px;
+	font-family: Helvetica;
+	font-size: 1em;
+	text-align: left;
+	
+}
+
+#parent6{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 600px;
+	 position: relative;
+	
+}
+
+
