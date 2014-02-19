@@ -107,4 +107,34 @@ width: 70%;
 	
 }
 
+#parent7{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 600px;
+	 position: relative;
+	
+}
+
+#child4{
+	width: 70%;
+	top: 50px;
+	position: relative;
+	right: 0px;
+	font-family: Helvetica;
+	font-size: 1em;
+	text-align: left;
+	
+}
+
+#parent8{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 700px;
+	 position: relative;
+	
+}
 
