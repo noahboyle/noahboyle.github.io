@@ -138,3 +138,34 @@ width: 70%;
 	
 }
 
+
+#parent9{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 500px;
+	 position: relative;
+	
+}
+
+#child5{
+	width: 70%;
+	top: 50px;
+	position: relative;
+	right: 0px;
+	font-family: Helvetica;
+	font-size: 1em;
+	text-align: left;
+	
+}
+
+#parent10{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 300px;
+	 position: relative;
+	
+}
