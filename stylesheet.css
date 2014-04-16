@@ -200,3 +200,34 @@ width: 70%;
 	 position: relative;
 	
 }
+
+#parent13{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 500px;
+	 position: relative;
+	
+}
+
+#child7{
+	width: 70%;
+	top: 50px;
+	position: relative;
+	right: 0px;
+	font-family: Helvetica;
+	font-size: 1em;
+	text-align: left;
+	
+}
+
+#parent14{
+	width: 85%;
+	float: left;
+	padding: 10px;
+	 margin-left:10px;
+	 top: 400px;
+	 position: relative;
+	
+}
