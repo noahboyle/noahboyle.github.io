@@ -1,4 +1,7 @@
- # noahboyle.github.io
+# This is for github project pages  
+# noahboyle.github.io/jekyll
+# noahboyle.github.io
+baseurl: noahboyle.github.io
 markdown: kramdown
 
 
